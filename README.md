@@ -1,6 +1,6 @@
 ## Hey GitHub User👋
 
-I am Dingsel, a self thought JS/TS developer and I love working with the Minecraft Bedrock Scriping API
+I am Dingsel, a self taught JS/TS developer and I love working with the Minecraft Bedrock Scriping API
 
 ### 🔭 Looking forward to join the Bedrock Marketplace
 ### ⚡My Contributions towards the community:
